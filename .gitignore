@@ -1,2 +1,3 @@
 .env
-agent.ipynb
+research/agent.ipynb
+research/.env
